@@ -12,7 +12,7 @@
 - **Responsive Controls**: Simple and intuitive controls designed for an optimal mobile experience.
 
 ## Gameplay
-In Sword Sprinter, players take on the role of a courageous warrior venturing into dark dungeons. With each level, new enemies and challenges await. Slash through foes, avoid traps, and collect items to boost your abilities. The further you progress, the stronger your enemies become—requiring strategic skill upgrades and weapon enhancements.
+&nbsp;&nbsp;&nbsp;&nbsp;In Sword Sprinter, players take on the role of a courageous warrior venturing into dark dungeons. With each level, new enemies and challenges await. Slash through foes, avoid traps, and collect items to boost your abilities. The further you progress, the stronger your enemies become—requiring strategic skill upgrades and weapon enhancements.
 
 <img src="./resources/Highlight.gif" alt="Highlight"/>
 <video width="600" controls>
@@ -42,7 +42,11 @@ Here are a few glimpses of the game:
 
 ## Installation
 To play Sword Sprinter, download the game from:
-- [Google Play Store]()
-- [Itch.io]()
+- Google Play Store
+<img src="./resources/SwordSprinterGooglePlayStorePage.png" alt="Itch.io Page" width="600">
+
+- tch.io (Coming Soon!)
+
+---
 
 Embark on a dungeon-crawling adventure, master your sword skills, and conquer every challenge that stands in your way with **Sword Sprinter**!
