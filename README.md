@@ -7,7 +7,7 @@
 
 ## Features
 - **Intense Battles**: Engage in epic sword fights against various enemies and bosses.
-- **Skill Upgrades**: Earn points to upgrade your character’s skills and abilities, enhancing your power as you progress.
+- **Sword Upgrades**: Earn points to upgrade your swords, each type offering unique skills and abilities that enhance your power as you progress.
 - **Dungeon Exploration**: Run, jump, and fight your way through mysterious and challenging dungeons.
 - **Responsive Controls**: Simple and intuitive controls designed for an optimal mobile experience.
 
