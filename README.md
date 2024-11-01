@@ -14,6 +14,12 @@
 ## Gameplay
 In Sword Sprinter, players take on the role of a courageous warrior venturing into dark dungeons. With each level, new enemies and challenges await. Slash through foes, avoid traps, and collect items to boost your abilities. The further you progress, the stronger your enemies become—requiring strategic skill upgrades and weapon enhancements.
 
+<img src="./resources/Highlight.gif" alt="Highlight"/>
+<video width="600" controls>
+  <source src="./resources/Gameplay.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Development Process
 Sword Sprinter was developed using:
 - **Game Engine**: Godot
