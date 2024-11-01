@@ -45,7 +45,7 @@ To play Sword Sprinter, download the game from:
 - Google Play Store
 <img src="./resources/SwordSprinterGooglePlayStorePage.png" alt="Itch.io Page" width="600">
 
-- tch.io (Coming Soon!)
+- Itch.io (Coming Soon!)
 
 ---
 
